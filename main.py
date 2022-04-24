@@ -28,8 +28,12 @@ trainer.train([
 
 print('Type something to begin...')
 
+# first test
 # response = chatbot.get_response("Hey")
 # print(response)
+
+# links
+# https://chatterbot.readthedocs.io/en/stable/examples.html
 
 # begin testing
 while True:
